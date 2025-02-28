@@ -20,7 +20,7 @@ ElectroMart is a dynamic, PHP-based web application that allows users to browse,
 ## Installation Guide
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/devmani46/phpWebAssignment.git
+    git clone[https://github.com/devmani46/phpWebAssignment.git](https://github.com/Shakyadon46/Electro-Mart-PHP-Assignment.git]
     ```
 
 2. **Configure Database**:
