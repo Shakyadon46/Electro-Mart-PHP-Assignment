@@ -5,6 +5,11 @@ Welcome to *ElectroMart*, an e-commerce web application designed to provide a se
 ## Project Overview
 ElectroMart is a dynamic, PHP-based web application that allows users to browse, purchase, and manage electronic products online. Administrators have complete control over product listings, orders, and customer management.
 
+## My Contribution
+- I was responsible for developing the frontend of the system using:
+- HTML for structure
+- Bootstrap for responsive design
+
 ## Features
 - **User Authentication**: Secure login and registration with password hashing.
 - **Product Management**: Add, edit, and delete electronic products.
